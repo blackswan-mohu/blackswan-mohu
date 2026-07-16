@@ -43,12 +43,14 @@
 ```yaml
 name:     墨鹄 / blackswan
 role:     Full-Stack Developer
+focus:    Growing an AI Agent product 🤖📈
 style:    Vibe Coding 🎧
 mindset:  Always a learner 📚
 motto:    "Stay humble, keep learning, embrace the unknown 🦢"
 ```
 
 - 🌱 **Still exploring** — a little bit of everything, from frontend to backend
+- 🤖 **AI Agent product growth** — building and growing an AI agent product, learning what makes users stay
 - 🎧 **Vibe Coding** — headphones on, just enjoying the flow
 - 📚 **Always learning** — trying to `git pull` something new each day
 - 🧠 **Knowledge management** — slowly building a second brain in Obsidian

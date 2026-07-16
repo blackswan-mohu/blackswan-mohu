@@ -42,12 +42,14 @@
 ```yaml
 name:     墨鹄 / blackswan
 role:     全栈开发者
+focus:    AI Agent 产品增长 🤖📈
 style:    Vibe Coding 🎧
 mindset:  一直在学习的路上 📚
 motto:    "保持谦逊，持续学习，拥抱未知 🦢"
 ```
 
 - 🌱 **还在摸索**：前端到后端都想学一点，什么都懂一点点
+- 🤖 **AI Agent 产品增长**：在做一款 AI agent 产品的增长，慢慢摸索怎么让用户留下来
 - 🎧 **Vibe Coding**：戴上耳机、沉浸其中，享受写代码的心流
 - 📚 **持续学习**：尽量每天都 `git pull` 一点新知识
 - 🧠 **知识管理**：在 Obsidian 里慢慢搭建自己的「第二大脑」
