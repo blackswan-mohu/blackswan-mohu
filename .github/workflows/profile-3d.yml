@@ -31,6 +31,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          # 自定义配置：彩虹配色 + 内置 darkMode（单文件自动跟随明暗背景）
+          # 输出 profile-3d-contrib/profile-customize.svg
+          SETTING_JSON: .github/profile-3d.json
 
       - name: Commit & Push
         run: |

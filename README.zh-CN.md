@@ -179,14 +179,10 @@ motto:     "拥抱不确定性，把黑天鹅变成机会"
 <div align="center">
 
 <!--
-  立体柱状 3D 贡献图，由 .github/workflows/profile-3d.yml 自动生成并提交。
-  跟随背景明暗自动切换：暗色→night-rainbow(深底彩虹)，亮色→season-animate(白底四季)。
+  立体柱状 3D 贡献图（彩虹配色），由 .github/workflows/profile-3d.yml 自动生成。
+  单文件内置 darkMode（@media prefers-color-scheme），彩虹效果 + 自动跟随明暗背景。
 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
-  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</picture>
+<img width="100%" src="./profile-3d-contrib/profile-customize.svg" alt="3D contribution graph" />
 
 </div>
 
