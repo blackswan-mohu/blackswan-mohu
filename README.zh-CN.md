@@ -59,6 +59,17 @@ motto:     "拥抱不确定性，把黑天鹅变成机会"
 
 </div>
 
+<!-- ===================== 每日开发者名言 ===================== -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img alt="random dev quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</picture>
+
+</div>
+
 ---
 
 ## 🛠️ 技术栈
@@ -141,6 +152,38 @@ motto:     "拥抱不确定性，把黑天鹅变成机会"
 
 ---
 
+## 📇 数据速览
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=default" />
+  <img alt="profile details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=github_dark" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackswan-mohu&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackswan-mohu&theme=default" />
+  <img alt="repos per language" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackswan-mohu&theme=github_dark" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackswan-mohu&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackswan-mohu&theme=default" />
+  <img alt="most commit language" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackswan-mohu&theme=github_dark" />
+</picture>
+
+<!-- 「活跃时段」卡片：看你一天中几点最能写码；utcOffset=8 = 北京时间 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackswan-mohu&theme=github_dark&utcOffset=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackswan-mohu&theme=default&utcOffset=8" />
+  <img alt="productive time" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackswan-mohu&theme=github_dark&utcOffset=8" />
+</picture>
+
+</div>
+
+---
+
 ## 🧊 3D 立体贡献图
 
 <div align="center">
@@ -150,6 +193,20 @@ motto:     "拥抱不确定性，把黑天鹅变成机会"
   首次生成需等 Action 跑完（约 1~2 分钟）后此图才会出现。
 -->
 <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+
+</div>
+
+---
+
+## 😄 此刻的程序员冷笑话
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=light&hideBorder=true" />
+  <img alt="dev joke" src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" />
+</picture>
 
 </div>
 
