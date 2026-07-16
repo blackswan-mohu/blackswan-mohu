@@ -38,21 +38,21 @@
 ## 🦢 About Me
 
 > **The Black Swan** — rare, unpredictable events with a massive impact. Named after Nassim Taleb's book.
-> I believe in growing through uncertainty and embracing every *improbable* with code.
+> I'm just trying to keep learning and grow a little through the uncertainty. 🦢
 
 ```yaml
-name:      墨鹄 / blackswan
-role:      Full-Stack Developer
-style:     Vibe Coding 🎧      # coding in the flow
-mindset:   Lifelong Learner 📚 # a generalist, always curious
-motto:     "Embrace uncertainty, turn black swans into opportunities"
+name:     墨鹄 / blackswan
+role:     Full-Stack Developer
+style:    Vibe Coding 🎧
+mindset:  Always a learner 📚
+motto:    "Stay humble, keep learning, embrace the unknown 🦢"
 ```
 
-- 🧩 **Generalist** — from frontend to backend, design to deployment, I love figuring it all out
-- 🎧 **Vibe Coding** — headphones on, in the flow, letting intuition meet engineering
-- 📚 **Lifelong Learner** — always `git pull`-ing new knowledge
-- 🦢 **Antifragile** — the more volatility, the more I grow
-- 💬 Ask me about tech, products, finance and everything uncertain
+- 🌱 **Still exploring** — a little bit of everything, from frontend to backend
+- 🎧 **Vibe Coding** — headphones on, just enjoying the flow
+- 📚 **Always learning** — trying to `git pull` something new each day
+- 🦢 **Antifragile** — hoping to grow through the ups and downs
+- 💬 Happy to chat about tech, products, and all things uncertain
 
 <div align="center">
 
