@@ -40,6 +40,15 @@ jobs:
           # 输出 profile-3d-contrib/profile-customize.svg
           SETTING_JSON: .github/profile-3d.json
 
+      - name: Recolor "other" pie slice
+        run: |
+          # 饼图里的 "other" 分片颜色由 action 源码硬编码为深灰 #444444，
+          # 与彩虹主题格格不入（尤其 other 占比大时）。这里生成后替换为
+          # 中灰紫 #8b7fa8，融入紫色/彩虹主题又保持低调。
+          # 该颜色仅用于 other 分片（图例小方块 + 扇形），全局替换是安全的。
+          sed -i 's/#444444/#8b7fa8/g' profile-3d-contrib/profile-customize.svg
+          echo "Recolored 'other' slice: #444444 -> #8b7fa8"
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
