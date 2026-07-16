@@ -30,6 +30,14 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=blackswan-mohu&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=blueviolet&style=flat" alt="profile views" />
 
+<!-- ===================== 每日开发者名言（励志横幅） ===================== -->
+<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  <img alt="random dev quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</picture>
+
 </div>
 
 ---
@@ -56,17 +64,6 @@ motto:     "拥抱不确定性，把黑天鹅变成机会"
 <div align="center">
 
 <a href="https://github.com/blackswan-mohu"><img src="https://img.shields.io/badge/GitHub-blackswan--mohu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
-
-<!-- ===================== 每日开发者名言 ===================== -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-  <img alt="random dev quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</picture>
 
 </div>
 
@@ -120,18 +117,11 @@ motto:     "拥抱不确定性，把黑天鹅变成机会"
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=blackswan-mohu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default" />
   <img alt="github stats" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=blackswan-mohu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=radical" />
 </picture>
-<!-- 常用语言 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blackswan-mohu&layout=compact&hide_border=true&langs_count=8&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blackswan-mohu&layout=compact&hide_border=true&langs_count=8&theme=default" />
-  <img alt="top languages" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blackswan-mohu&layout=compact&hide_border=true&langs_count=8&theme=radical" />
-</picture>
-
 <!-- 连续贡献 streak -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=blackswan-mohu&hide_border=true&locale=zh_Hans&theme=radical" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=blackswan-mohu&hide_border=true&locale=zh_Hans&theme=default" />
-  <img alt="github streak" src="https://streak-stats.demolab.com?user=blackswan-mohu&hide_border=true&locale=zh_Hans&theme=radical" />
+  <img alt="github streak" height="165" src="https://streak-stats.demolab.com?user=blackswan-mohu&hide_border=true&locale=zh_Hans&theme=radical" />
 </picture>
 
 </div>
@@ -190,9 +180,13 @@ motto:     "拥抱不确定性，把黑天鹅变成机会"
 
 <!--
   立体柱状 3D 贡献图，由 .github/workflows/profile-3d.yml 自动生成并提交。
-  首次生成需等 Action 跑完（约 1~2 分钟）后此图才会出现。
+  跟随背景明暗自动切换：暗色→night-rainbow(深底彩虹)，亮色→season-animate(白底四季)。
 -->
-<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</picture>
 
 </div>
 
