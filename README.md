@@ -58,13 +58,8 @@ motto:     "Embrace uncertainty, turn black swans into opportunities"
 
 <a href="https://github.com/blackswan-mohu"><img src="https://img.shields.io/badge/GitHub-blackswan--mohu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<!-- Profile details card (moved up under About Me) -->
-<br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=default" />
-  <img alt="profile details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=github_dark" />
-</picture>
+<!-- Profile details card (transparent theme adapts to any background) -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=transparent" alt="profile details" />
 
 </div>
 

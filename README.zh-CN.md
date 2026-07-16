@@ -57,13 +57,8 @@ motto:     "拥抱不确定性，把黑天鹅变成机会"
 
 <a href="https://github.com/blackswan-mohu"><img src="https://img.shields.io/badge/GitHub-blackswan--mohu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<!-- 资料卡（移到自我介绍下方） -->
-<br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=default" />
-  <img alt="profile details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=github_dark" />
-</picture>
+<!-- 资料卡（transparent 主题，自动适应任意背景） -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=transparent" alt="profile details" />
 
 </div>
 
