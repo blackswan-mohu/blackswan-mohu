@@ -30,14 +30,6 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=blackswan-mohu&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=blueviolet&style=flat" alt="profile views" />
 
-<!-- ===================== 每日开发者名言（励志横幅） ===================== -->
-<br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-  <img alt="random dev quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</picture>
-
 </div>
 
 ---
@@ -65,43 +57,13 @@ motto:     "拥抱不确定性，把黑天鹅变成机会"
 
 <a href="https://github.com/blackswan-mohu"><img src="https://img.shields.io/badge/GitHub-blackswan--mohu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-</div>
-
----
-
-## 🛠️ 技术栈
-
-<div align="center">
-
-**语言**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**前端**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**后端 & 运维**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**工具**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!-- 资料卡（移到自我介绍下方） -->
+<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=default" />
+  <img alt="profile details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=github_dark" />
+</picture>
 
 </div>
 
@@ -142,38 +104,6 @@ motto:     "拥抱不确定性，把黑天鹅变成机会"
 
 ---
 
-## 📇 数据速览
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=default" />
-  <img alt="profile details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=github_dark" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackswan-mohu&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackswan-mohu&theme=default" />
-  <img alt="repos per language" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blackswan-mohu&theme=github_dark" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackswan-mohu&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackswan-mohu&theme=default" />
-  <img alt="most commit language" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blackswan-mohu&theme=github_dark" />
-</picture>
-
-<!-- 「活跃时段」卡片：看你一天中几点最能写码；utcOffset=8 = 北京时间 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackswan-mohu&theme=github_dark&utcOffset=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackswan-mohu&theme=default&utcOffset=8" />
-  <img alt="productive time" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blackswan-mohu&theme=github_dark&utcOffset=8" />
-</picture>
-
-</div>
-
----
-
 ## 🧊 3D 立体贡献图
 
 <div align="center">
@@ -183,20 +113,6 @@ motto:     "拥抱不确定性，把黑天鹅变成机会"
   单文件内置 darkMode（@media prefers-color-scheme），彩虹效果 + 自动跟随明暗背景。
 -->
 <img width="100%" src="./profile-3d-contrib/profile-customize.svg" alt="3D contribution graph" />
-
-</div>
-
----
-
-## 😄 此刻的程序员冷笑话
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=light&hideBorder=true" />
-  <img alt="dev joke" src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" />
-</picture>
 
 </div>
 
