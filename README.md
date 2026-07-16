@@ -61,14 +61,39 @@ motto:     "拥抱不确定性，把黑天鹅变成机会"
 
 ## 🛠️ 技术栈 · Tech Stack
 
-<!-- � 改这里：在 i= 后面按需增删技术缩写，全部可选值见 https://skillicons.dev -->
+<!-- 👉 改这里：按需增删徽章。颜色/logo 名称参考 https://simpleicons.org
+     （原 skillicons.dev 图标墙服务不稳定，会被 GitHub 缓存成裂图，故改用稳定的 shields.io 徽章墙） -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,nodejs,tailwind,python,go,git,docker,postgres,redis,vscode,figma,linux&perline=9&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,nodejs,tailwind,python,go,git,docker,postgres,redis,vscode,figma,linux&perline=9&theme=light" />
-  <img alt="tech stack" src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nextjs,nodejs,tailwind,python,go,git,docker,postgres,redis,vscode,figma,linux&perline=9&theme=dark" />
-</picture>
+**语言 · Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**前端 · Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**后端 & 运维 · Backend & DevOps**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**工具 · Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
