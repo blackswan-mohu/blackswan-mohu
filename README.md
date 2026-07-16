@@ -51,6 +51,7 @@ motto:    "Stay humble, keep learning, embrace the unknown 🦢"
 - 🌱 **Still exploring** — a little bit of everything, from frontend to backend
 - 🎧 **Vibe Coding** — headphones on, just enjoying the flow
 - 📚 **Always learning** — trying to `git pull` something new each day
+- 🧠 **Knowledge management** — slowly building a second brain in Obsidian
 - 🦢 **Antifragile** — hoping to grow through the ups and downs
 - 💬 Happy to chat about tech, products, and all things uncertain
 
@@ -60,6 +61,27 @@ motto:    "Stay humble, keep learning, embrace the unknown 🦢"
 
 <!-- Profile details card (transparent theme adapts to any background) -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=transparent" alt="profile details" />
+
+</div>
+
+---
+
+## 🧠 Knowledge Management
+
+> Still figuring it out, but I enjoy turning scattered notes into something structured.
+
+I'm a little obsessed with **structured, systematic knowledge management** — trying to connect what I learn instead of just piling it up.
+
+- 🗂️ **Structured** — organizing notes with tags, links and a bit of MOC (map of content)
+- 🌐 **Systematic** — growing a connected knowledge graph rather than isolated files
+- 🔮 **Obsidian** — my daily second brain, where ideas link, resurface and (hopefully) compound
+- ♻️ Slowly learning that good notes are *grown*, not just *collected*
+
+<div align="center">
+
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![PKM](https://img.shields.io/badge/PKM-Second_Brain-6D28D9?style=for-the-badge)
 
 </div>
 

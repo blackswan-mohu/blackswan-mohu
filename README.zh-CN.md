@@ -50,6 +50,7 @@ motto:    "保持谦逊，持续学习，拥抱未知 🦢"
 - 🌱 **还在摸索**：前端到后端都想学一点，什么都懂一点点
 - 🎧 **Vibe Coding**：戴上耳机、沉浸其中，享受写代码的心流
 - 📚 **持续学习**：尽量每天都 `git pull` 一点新知识
+- 🧠 **知识管理**：在 Obsidian 里慢慢搭建自己的「第二大脑」
 - 🦢 **反脆弱**：希望能在起起伏伏中慢慢成长
 - 💬 欢迎和我聊聊技术、产品，以及所有不确定的事
 
@@ -59,6 +60,27 @@ motto:    "保持谦逊，持续学习，拥抱未知 🦢"
 
 <!-- 资料卡（transparent 主题，自动适应任意背景） -->
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackswan-mohu&theme=transparent" alt="profile details" />
+
+</div>
+
+---
+
+## 🧠 知识管理
+
+> 还在慢慢摸索，但我挺享受把零散的笔记整理成有结构的东西。
+
+我对**结构化、系统化的知识管理**有点着迷 —— 想把学到的东西连起来，而不只是堆在一起。
+
+- 🗂️ **结构化**：用标签、双链和一点点 MOC（内容地图）来组织笔记
+- 🌐 **系统化**：让笔记长成一张互相连接的知识图谱，而不是一堆孤立文件
+- 🔮 **Obsidian**：我每天用的「第二大脑」，想法在这里彼此链接、反复浮现、慢慢积累
+- ♻️ 慢慢体会到：好的笔记是「养」出来的，而不只是「收集」来的
+
+<div align="center">
+
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![PKM](https://img.shields.io/badge/PKM-第二大脑-6D28D9?style=for-the-badge)
 
 </div>
 
