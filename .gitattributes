@@ -1,0 +1,13 @@
+# ============================================================
+#  Linguist 语言统计覆盖规则
+#  目的：让 GitHub 把 Markdown 计入语言统计，从而在 3D 贡献图的
+#        饼图里显示出来（Linguist 默认把 Markdown 归为 prose，不计入）。
+# ============================================================
+
+# 把 Markdown 当作正式语言参与统计（默认不计入）
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+
+# 3D 贡献图 SVG 是自动生成的产物，不应参与语言统计
+# （否则 2MB 的 SVG 会盖过 Markdown，本仓库会被判定为 SVG）
+profile-3d-contrib/** linguist-generated=true
